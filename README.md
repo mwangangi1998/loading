@@ -1,1 +1,1 @@
-# loading Animations using css 
+# loading Animations using css & JS
